@@ -1,73 +1,36 @@
 # Hi, I'm Faiza Sajjad 👋
 
-### Frontend Developer | Computer Science Student
+### Frontend Developer | React Enthusiast 💻
 
-I'm a passionate Frontend Developer and Computer Science student focused on building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into interactive digital experiences using modern web technologies.
+✨ Passionate about building responsive, user-friendly, and modern web applications.
 
----
+🚀 **Currently**
 
-## 🚀 About Me
+* 🎓 BS Computer Science Student
+* 🌱 Learning React & Modern Web Development
+* 💻 Building Frontend Projects
+* 🤝 Open to Internship Opportunities
 
-* 🎓 BS Computer Science Student at University of Gujrat
-* 💻 Frontend Developer specializing in React.js
-* 🌱 Currently learning advanced React concepts and modern web development
-* 🔭 Working on personal and academic web development projects
-* 🤝 Open to internships, collaborations, and freelance opportunities
-* ⚡ Passionate about creating clean, responsive, and accessible user interfaces
+### 🛠️ Tech Stack
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap)
 
-## 🛠️ Technologies & Tools
+### 📌 Projects
 
-### Frontend
+🔹 EventHub Management System
+🔹 Personal Portfolio Website
+🔹 Responsive Landing Pages
 
-* React.js
-* JavaScript (ES6+)
-* HTML5
-* CSS3
-* Bootstrap
-* Responsive Design
+### 📫 Connect With Me
 
-### Tools
+* GitHub: github.com/Faiza034
+* LinkedIn: Your LinkedIn Profile
+* Email: Your Email
 
-* Git
-* GitHub
-* VS Code
-* WordPress
-* Elementor
-* Canva
+<img src="https://github-readme-stats.vercel.app/api?username=Faiza034&show_icons=true&theme=tokyonight" />
 
----
-
-## 📌 Featured Projects
-
-### EventHub Management System
-
-Final Year Project focused on event discovery, booking, and management. Developed responsive frontend interfaces using React and Bootstrap.
-
-**Technologies:** React.js, Bootstrap, JavaScript, CSS3
-
-### Personal Portfolio Website
-
-A modern portfolio website showcasing skills, education, experience, and projects with responsive design and smooth user experience.
-
-**Technologies:** React.js, CSS3, JavaScript, Framer Motion
-
-### Responsive Landing Page
-
-Designed and developed a modern landing page with responsive layouts and clean UI using HTML and CSS.
-
-**Technologies:** HTML5, CSS3, Flexbox, Responsive Design
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/Faiza034
-* LinkedIn: Add Your LinkedIn Profile Here
-* Email: Add Your Email Here
-
----
-
-⭐ Always eager to learn new technologies, solve challenging problems, and contribute to meaningful projects.
-
+⭐ Always learning, building, and growing.
